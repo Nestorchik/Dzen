@@ -1,2 +1,2 @@
 # Dzen
-Files for Dzen
+Файлы и материалы для "Dzen"
